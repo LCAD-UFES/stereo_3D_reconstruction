@@ -8,6 +8,9 @@ calibrate/calib
 rectify/*.o
 rectify/*~
 rectify/rectify
+reconstruct/*.o
+reconstruct/*~
+reconstruct/reconstruct
 uframe/*.o
 uframe/*~
 uframe/frame
